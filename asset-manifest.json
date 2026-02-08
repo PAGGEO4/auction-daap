@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/auction-daap/static/css/main.f855e6bc.css",
-    "main.js": "/auction-daap/static/js/main.023bb575.js",
-    "static/js/453.6f00de0e.chunk.js": "/auction-daap/static/js/453.6f00de0e.chunk.js",
-    "index.html": "/auction-daap/index.html",
-    "main.f855e6bc.css.map": "/auction-daap/static/css/main.f855e6bc.css.map",
-    "main.023bb575.js.map": "/auction-daap/static/js/main.023bb575.js.map",
-    "453.6f00de0e.chunk.js.map": "/auction-daap/static/js/453.6f00de0e.chunk.js.map"
+    "main.css": "/auction-daap/static/css/main.9a71fbc5.css",
+    "main.js": "/auction-daap/static/js/main.aadd04da.js",
+    "static/js/206.c2b79c61.chunk.js": "/auction-daap/static/js/206.c2b79c61.chunk.js",
+    "index.html": "/auction-daap/index.html"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.023bb575.js"
+    "static/css/main.9a71fbc5.css",
+    "static/js/main.aadd04da.js"
   ]
 }
